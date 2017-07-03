@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/timmydd/contrast-ratio/issues"
   },
-  "homepage": "https://github.com/timmydd/contrast-ratio#readme"
+  "homepage": "https://github.com/timmydd/contrast-ratio#readme",
+  "dependencies": {
+    "jshint": "^2.9.5"
+  }
 }
