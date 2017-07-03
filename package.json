@@ -1,0 +1,19 @@
+{
+  "name": "contrast-ratio",
+  "version": "1.0.0",
+  "description": "A colour contrast ratio app ideally to be used autonomously eventually",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timmydd/contrast-ratio.git"
+  },
+  "author": "Tim Douglas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timmydd/contrast-ratio/issues"
+  },
+  "homepage": "https://github.com/timmydd/contrast-ratio#readme"
+}
